@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Title of this site is here."
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "site tagline that appears below site title in masthead"
 name                     : "Name will be shown here."
 description              : "An amazing website..."
 URL                      : "https://kosuke-tohoku.github.io/minimal-mistakes/"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
